@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.imooc.bigdata</groupId>
+  <groupId>bigdata</groupId>
   <artifactId>hadoop-train-v2</artifactId>
   <version>1.0</version>
 
@@ -16,11 +16,9 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
-    <!--定义Hadoop版本-->
     <hadoop.version>2.6.0-cdh5.16.2</hadoop.version>
   </properties>
 
-  <!--引入cdh的仓库-->
   <repositories>
     <repository>
       <id>cloudera</id>
@@ -29,14 +27,12 @@
   </repositories>
 
   <dependencies>
-    <!--添加Hadoop的依赖包-->
     <dependency>
       <groupId>org.apache.hadoop</groupId>
       <artifactId>hadoop-client</artifactId>
       <version>${hadoop.version}</version>
     </dependency>
 
-    <!--添加junit的依赖包-->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -59,7 +55,6 @@
           <version>3.0.2</version>
         </plugin>
         <plugin>
-          <!-- 自己添加了groupId和configuration，等于说用1.8来编译 -->
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.8.0</version>
