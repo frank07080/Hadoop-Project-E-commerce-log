@@ -5,7 +5,7 @@ Hadoop project with MapReduce, HDFS, YARN, and Hive analyzes E-commerce log.
 
 2. Statistically sum up the web traffic and data amount for each province.
 
-3. Statistically sum up the web traffic and data amount for each produce.
+3. Statistically sum up the web traffic and data amount for each product.
 
 # Version:
 
