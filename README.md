@@ -7,7 +7,7 @@ Hadoop project with MapReduce, HDFS, YARN, and Hive analyzes E-commerce log.
 
 3. Statistically sum up the web traffic and data amount for each product.
 
-# Version:
+## Version:
 
 - Hadoop: 2.6.0-cdh5.16.2
 - Apache Maven: 3.6.3
