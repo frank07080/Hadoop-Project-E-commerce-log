@@ -1,5 +1,5 @@
 # Hadoop-Project-E-commerce-log
-Hadoop project with MapReduce, HDFS, YARN, and Hive analyzes E-commerce log.
+Hadoop project with MapReduce, HDFS, YARN, and Hive analyzes E-commerce log. This project utilizes Apache Maven integrating with Java 1.8 on HDFS with one namenode with several datanodes to achieve the following tasks for a webpage from a E-commerce company.
 
 1. Statistically calculate the web traffic and data amount for each webpage.  
 
