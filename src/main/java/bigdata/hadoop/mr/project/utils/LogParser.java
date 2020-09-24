@@ -33,11 +33,9 @@ public class LogParser {
             info.put("province", province);
             info.put("city", city);
 
-            // 放入url
             String url = splits[1];
             info.put("url", url);
 
-            // 放入时间
             String time = splits[17];
             info.put("time", time);
         }

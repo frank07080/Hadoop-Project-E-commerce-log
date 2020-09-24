@@ -23,74 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e8635a8-5975-4f16-8cbd-54b63cc26ac1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/bigdata/hadoop/mr/project/utils/ContentUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/bigdata/hadoop/mr/project/utils/LogParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/bigdata/hadoop/mr/project/v2/ETLApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/bigdata/hadoop/mr/project/v2/PVStatV2App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/bigdata/hadoop/mr/project/v2/PageStatV2App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/bigdata/hadoop/mr/project/v2/ProvinceStatV2App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/wc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/wc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/imooc/bigdata/hadoop/mr/project/utils/IPTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/imooc/bigdata/hadoop/mr/project/utils/LogParseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/hdfs/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/hdfs/HDFSwcApp01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/hdfs/HDFSwcApp02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/hdfs/ImoocContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/hdfs/ImoocMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/hdfs/ParamsUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/hdfs/WordCountMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/hdfs/WordCountMapperCaseIgnore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/access/Access.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/access/AccessLocalApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/access/AccessMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/access/AccessPartitioner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/access/AccessReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/access/AccessYARNApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/utils/ContentUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/utils/IPParser$RegionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/utils/IPParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/utils/IPSeeker$IPEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/utils/IPSeeker$IPLocation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/utils/IPSeeker$IPSeekerUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/utils/IPSeeker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/utils/LogParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v1/PVStatApp$MyMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v1/PVStatApp$MyReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v1/PVStatApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v1/PVStatApp2$MyMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v1/PVStatApp2$MyReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v1/PVStatApp2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v1/PageStatApp$MyMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v1/PageStatApp$MyReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v1/PageStatApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v1/ProvinceStatApp$MyMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v1/ProvinceStatApp$MyReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v1/ProvinceStatApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v2/ETLApp$MyMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v2/ETLApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v2/PVStatV2App$MyMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v2/PVStatV2App$MyReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v2/PVStatV2App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v2/PageStatV2App$MyMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v2/PageStatV2App$MyReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v2/PageStatV2App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v2/ProvinceStatV2App$MyMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v2/ProvinceStatV2App$MyReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/project/v2/ProvinceStatV2App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/wc/WordCountApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/wc/WordCountLocalApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/wc/WordCountLocalCombinerApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/wc/WordCountMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/bigdata/hadoop/mr/wc/WordCountReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/wc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/hadoop-train-v2-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/imooc/bigdata/hadoop/hdfs/HDFSApp1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/imooc/bigdata/hadoop/hdfs/HDFSApp2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/imooc/bigdata/hadoop/hdfs/HDFSApp3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/imooc/bigdata/hadoop/hdfs/HDFSApp3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/imooc/bigdata/hadoop/mr/project/utils/IPTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/imooc/bigdata/hadoop/mr/project/utils/LogParseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/hadoop/mr/project/utils/LogParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bigdata/hadoop/mr/project/utils/LogParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/wc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wc.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,5 +73,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
